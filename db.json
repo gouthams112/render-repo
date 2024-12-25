@@ -1,0 +1,30 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Aasan Nahin Yahan",
+      "artist": "Arijit Singh",
+      "album": "Aashiqui 2",
+      "audioUrl": "https://github.com/GouthamSomaraju/music-hosting/raw/refs/heads/main/Aasan%20Nahin%20Yahan%20Aashiqui%202%20128%20Kbps.mp3",
+      "coverImage": "https://pagalnew.com/coverimages/Aasan-Nahin-Yahan-Aashiqui-2-500-500.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Adangaatha Asuran Raayan",
+      "artist": "A.R. Rahman",
+      "album": "Raayan - Tamil",
+      "audioUrl": "https://github.com/GouthamSomaraju/music-hosting/raw/refs/heads/main/Adangaatha%20Asuran%20Raayan%20320%20Kbps.mp3",
+      "coverImage": "https://pagalnew.com/coverimages/adangaatha-asuran-raayan-500-500.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Agar Tum Saath Ho",
+      "artist": "Arijit Singh",
+      "album": "Tamasha",
+      "audioUrl": "https://github.com/GouthamSomaraju/music-hosting/raw/refs/heads/main/Agar%20Tum%20Saath%20Ho%20Tamasha%20320%20Kbps.mp3",
+      "coverImage": "https://pagalnew.com/coverimages/Agar-Tum-Saath-Ho-Tamasha-500-500.jpg"
+    }
+    
+    
+  ]
+}
