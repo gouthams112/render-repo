@@ -586,6 +586,14 @@
       "album": "The Dirty Picture",
       "audioUrl": "https://github.com/gouthams112/musics/raw/refs/heads/main/old-TDP-Ishq%20Sufiyana.mp3",
       "coverImage": "https://pagalfree.com/images/128Ishq%20Sufiyana%20(Male)%20-%20The%20Dirty%20Picture%20128%20Kbps.jpg"
+    },
+    {
+      "id": 68,
+      "title": "Vendiminnu Neevanta",
+      "artist": "Krishna Tejasvi, Sireesha Bhagavatula, Ramajogayya Sastry, G. V. Prakash Kumar",
+      "album": "Amaran",
+      "audiourl": "https://github.com/nikki9381/SPOTIFY-PROJECT/raw/refs/heads/main/%5BiSongs.info%5D%2004%20-%20Vendiminnu%20Neevanta.mp3",
+      "coverimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6A75PkqKusQt1iNsiM1aOdeUDadLDgXshlQ&s"
     }
   ]
 }
